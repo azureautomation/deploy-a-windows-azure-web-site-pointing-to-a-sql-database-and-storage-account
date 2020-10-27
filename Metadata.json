@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 7114,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-windows-azure-web-site-pointing-to-a-sql-database-and-storage-account/master/New-AzureWebsitewithDB.ps1",
+    "DownloadCount": 5395,
+    "Id": "Deploy-a-Windows-Azure-Web-790cacd2",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 267,
+    "RaterCount": 5,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a Windows Azure Website and links to a SQL Azure DB and a storage account.  If the storage account specified does not exist, the storage account will be created.",
+    "Title": "Deploy a Windows Azure Web Site Pointing to a SQL Database and Storage Account",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-a-windows-azure-web-site-pointing-to-a-sql-database-and-storage-account",
+    "UserTags": "Provisioning"
+}
